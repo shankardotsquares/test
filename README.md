@@ -1,2 +1,2 @@
 # test
-learning
+This is my first repositry
